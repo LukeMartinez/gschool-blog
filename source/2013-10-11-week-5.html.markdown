@@ -1,0 +1,11 @@
+---
+title: week 4
+date: 2013-10-04 15:14 UTC
+tags:
+---
+
+I found focus week to be a much needed break from the typical format of our work weeks. However, I found it to be the least 'productive' week so far. By this, I mean that I am finishing this week with only a small amount more confidence and knowledge than I had comming into it. I really enjoyed the robot and the queens exercises, this week, but I found the bulk of the work to be a little repetative. Getting to remake event reporter with proper class structures and testing was somewhat valuable, but I would have rather worked on a smaller project that invovled the some of the same techniques, but in a new context. I did take away a better understanding of how classes communicate with eachother 
+
+I feel like I have a lot of work to do this weekend if I want to feel ready for a new project on monday. Either way, I'm looking forward to learning a new aspect of ruby development. Even though I dont feel 100% ready for this next step, I feel like I learn best when I'm forces to just press on. As hard and frustrating eas sales engine was, I feel like I made my biggest strides while working on it. I was a little disapointed to hear that the project would be worked on individually. I think it would be nice to do a project like this in a group setting because it would help eliminate some of the roadblocks and dead ends that I find myself arriving at when I work alone. 
+
+At home this week, I spent most of my time working on my lightning talk. I enjoyed working on this because presenting information, and speaking to groups is something I have done before, and I feel like I'm pretty good at it. It was refreshing for me to start a project with the confidence that I could complete it, and do a good job. I look forward to my next one. 

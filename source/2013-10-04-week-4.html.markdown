@@ -1,0 +1,9 @@
+---
+title: week 4
+date: 2013-10-04 15:14 UTC
+tags:
+---
+
+Working with a partner on Sales Engine proved to be more difficult than I thought it would be. Screensharing was slow and ineffective. Working from home was hard because our limited understanding of git made for several merge conflicts. Our schedules did not often line up, which made it very hard for us to be in the same place at the same time. However, when it came to problem solving and/or troubleshooting, it was incredibly valuable to have a partner that I could work through it with. Sometimes I would be lost, and George would be able to figure out what had to be done. Othertimes I was guiding us through various issues. I believe that having a partner slowed down my progress considerably. Often times, I was hesitant to move forward on the project for fear of not including my partner in the progress I would make. Working alone, or working with someone who shared a similar schedule would have been mich preferred. 
+
+In four weeks, I feel like i <i> learned </i> more than expected, but <i> mastered </i> almost nothing. The entire time, I have felt that as soon as I am understanding a concept, something new is getting dumped on top of me, making it impossible to master any single concept. At this moment that is incredibly frustrating, but I think I can see the value in this learning aproach. When the "ah ha!" moment happens, I will have a wide base of knowledge upon which to build my understanding of Ruby and programming. I really have no idea what to expect by the time this program is over. Right now, its hard to believe that in five months I could actually be valuable to a company as an entry level developer, but that is where I hope to be by the end of this. 

@@ -1,0 +1,14 @@
+---
+title: week 4
+date: 2013-10-04 15:14 UTC
+tags:
+---
+
+
+I have really been enjoying writing IdeaBox. While the sinatra code is pretty intimidating, its incredibly rewarding to be able to type some code, then load up my browser and see its results. I was suprised and how much HTML I could remember. I havn't written HTML for maybe 10 years, but as soon as I saw the layout a lot of it came back to me. The ruby code for this project is not that difficult, nor is the HTML. The tricky part for me has been the interface between the ruby and the HTML. A lot of the {erb :form, locals, {ideas: idea}} stuff still seems lke magic to me. I was able to copy and paste much of it and retrofit it to work for which ever feature I was writing, so I've been making pretty good progress. For now, testing is out of the question. I hope to finish out this week by completing a few more extensions, and then spending most of next week trying to write tests for what I have built. I may also spend a little time trying to make the application look pretty.
+  
+Much of what I learned last week has been compromised. Not forgotten, but compromised for the sake of progress. I feel like I could have better implemented testing for this project if I took a little more time between completing the tutorial, and jumping into the extensions. My progress on SalesEngine was really slow, and heavily dependent on help from the teachers, or other students. I didn't spend much time, if any, hacking my way through problems or making much progress on my own. With this project, I have actually been able to move forward without much guidence and I am loving it. I think this is a big part of why I have abandoned many of the 'best practices' we learned last week. It's just too much fun pushing forward, and doing it the right way would slow me down and be more tedious. 
+
+Working on an individual project makes it clear what I know and what I dont know. I have been trying to take note of every time I have to get up and ask someone for help, because if I have to ask for help, its clearly something I dont understand, and need to work on. The team aspect has not been a big part of the project so far. It is nice to have a 'checkup' every other day or so, just to make sure no one is tottaly drowning, and to have an opportunity to see where the more advanced students are at. However, the team aspect has not played a big part in making progress with the project. 
+
+Assessments will be tough. I really don't know what to expect. Often times, my progress comes from looking at an old piece of code that I wrote, and either refrencing it, or completely copy and pasting it, and then modifying it to work for my current problem. Working with a blank page is still pretty tough.
